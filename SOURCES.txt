@@ -1,0 +1,4 @@
+https://github.com/stuyy/django-discord-oauth2
+https://stackoverflow.com/questions/43111029/how-to-find-the-average-colour-of-an-image-in-python-with-opencv
+https://discord.com/developers/docs
+https://github.com/pycord-development/pycord
